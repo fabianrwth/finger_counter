@@ -1,0 +1,4 @@
+model.p
+./data
+*.pickle
+*.ipynb

@@ -1,4 +1,8 @@
-# sign-language-detector-python
+# Sign Language Detection
+
+
+`pip install -r requirements.txt`
+
 
 Sign language detector with Python, OpenCV and Mediapipe !
 

@@ -1,4 +1,4 @@
 model.p
-data/
+data/*
 *.pickle
 *.ipynb
